@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sohaib! 👋 I'm an Electronics Engineering student at MUET Jamshoro. I specialize in building cross-platform mobile apps with Flutter and developing Machine Learning and Deep Learning models in Python. I recently wrapped up a stint as a freelance software developer and am highly focused on building smart, user-centric applications.
+Hi, I'm Sohaib! 👋 I'm a final-year Computer Science student at DHA Suffa University in Karachi. I specialize in building cross-platform mobile apps with Flutter and developing Machine Learning and Deep Learning models in Python. I recently wrapped up a stint as a freelance software developer and am highly focused on building smart, user-centric applications.
 
 🔭 **I’m currently working on** Boardmate, an educational mobile app featuring a resource library, interactive quizzes, and an integrated AI tutor.
 
