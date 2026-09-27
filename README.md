@@ -1,13 +1,13 @@
 # 💫 About Me:
-Hi, I'm Sohaib! 👋 I'm a final-year Computer Science student at DHA Suffa University in Karachi. I specialize in building cross-platform mobile apps with Flutter and developing Machine Learning and Deep Learning models in Python. I recently wrapped up a stint as a freelance software developer and am highly focused on building smart, user-centric applications.
+Hi, I'm Sohaib! 👋 I am a recent Computer Science graduate (Aug 2026) from DHA Suffa University in Karachi. I specialize in building full-stack cross-platform mobile apps with Flutter (Firebase) and developing Machine Learning/Deep Learning models in Python. I recently wrapped up a stint as a freelance software developer and am currently upskilling through the DeepLearning.AI Machine Learning Specialization. My goal is to build smart, user-centric applications bridging mobile frontends with AI/ML data pipelines.
 
-🔭 **I’m currently working on** Boardmate, an educational mobile app featuring a resource library, interactive quizzes, and an integrated AI tutor.
+🔭 **I’m currently working on** Protega (an IoT SOS alert app using ESP32 & Flutter) and Boardmate (an educational app with an integrated AI tutor).
 
 👯 **I’m looking to collaborate on** open-source Flutter applications or Python-based ML/DL projects.
 
 🤝 **I’m looking for help with** advanced data analytics and expanding my cloud integration skills (Firebase/Cloudinary).
 
-🌱 **I’m currently learning** more about data analytics and exploring management training concepts.
+🌱 **I’m currently learning** advanced Machine Learning and Deep Learning techniques.
 
 💬 **Ask me about** Flutter development, Python, Jupyter, OOP, or hardware troubleshooting (especially optimizing gaming and dev performance on integrated graphics!).
 
